@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require('acostan21-print-frame')
 
-print('Hello NPM!');
+print('Hello NPM')
 
 /*
 Expected Output:
